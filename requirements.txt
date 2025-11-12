@@ -71,8 +71,6 @@ PyJWT==2.10.1
 pyperclip==1.11.0
 python-dotenv==1.1.1
 python-multipart==0.0.20
-pywin32==311
-pywin32-ctypes==0.2.3
 PyYAML==6.0.3
 realtime==2.24.0
 referencing==0.36.2
