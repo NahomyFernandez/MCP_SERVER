@@ -1,0 +1,12 @@
+# Archivo: .gitignore
+
+# Carpeta del entorno virtual
+venv/
+.venv/
+
+# Archivo de secretos
+.env
+
+# Caché de Python
+__pycache__/
+*.pyc
